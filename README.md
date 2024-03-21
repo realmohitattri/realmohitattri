@@ -1,0 +1,6 @@
+- 👋 Hi, I’m @realmohitattri
+- 👀 I’m interested in Web Development
+- 🌱 I’m currently learning Computer Science Engineering with Specialization in Cyber Security
+- 💞️ I’m looking to collaborate on Full Stack Development
+- 📫 How to reach me mailto:mohitattri.324@gmail.com
+- ⚡ Fun fact: Nothing is secure
